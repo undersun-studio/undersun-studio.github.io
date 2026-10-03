@@ -16,5 +16,5 @@
 2. GitHub Pagesを`main`ブランチのルートから公開する。
 3. `undersun.studio`を取得し、GitHub Pages指定のDNSレコードを登録する。
 4. リポジトリのルートに、`undersun.studio`だけを記載した`CNAME`を追加する。
-5. `support@undersun.studio`の受信またはメール転送を設定する。
+5. `support@undersun.studio`の受信またはメール転送を設定し、各ページの連絡先を現在の暫定アドレスから変更する。
 6. 全ページがログインなしのHTTPSで開けることを確認する。
